@@ -18,7 +18,10 @@ A modern, browser-based frontend to gdb (gnu debugger)
 
 </p>
 
+**Note**: This project is no longer under active development.
+
 ---
+
 
 **Documentation**: https://gdbgui.com
 

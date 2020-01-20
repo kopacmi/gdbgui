@@ -4,6 +4,8 @@ about: Create a report to help us improve
 
 ---
 
+<!---Note: gdbgui is no longer under development. Issues are not monitored. -->
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -21,7 +23,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Please complete the following information:**
-* OS: 
+* OS:
 * gdbgui version (`gdbgui -v`):
 * gdb version (`gdb -v`):
 * browser [e.g. chrome, safari]:

@@ -4,6 +4,8 @@ about: Suggest an idea for this project
 
 ---
 
+<!---Note: gdbgui is no longer under development. Issues are not monitored. -->
+
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
